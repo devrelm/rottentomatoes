@@ -7,7 +7,7 @@ except ImportError:
 
 import rottentomatoes
 
-setup(name="rottentomatoes-dealflicks",
+setup(name="rottentomatoes-devrelm",
       version="1.0.2",
       description="Rotten Tomatoes Python API",
       long_description=rottentomatoes.RT.__doc__,
